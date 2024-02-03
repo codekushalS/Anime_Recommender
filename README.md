@@ -9,6 +9,7 @@ This web application uses a Flask backend to recommend animes based on a dataset
     │
     ├── app.py
     ├── check.py
+    ├── requirements.txt
     ├── anime_recommender_package
     │     ├── __init__.py
     │     ├── recommender_system.py
