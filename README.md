@@ -4,6 +4,7 @@ This web application uses a Flask backend to recommend animes based on a dataset
 
 ## Project Structure
 
+```text
 /Anime_Recommender
 │
 ├── app.py
@@ -20,6 +21,7 @@ This web application uses a Flask backend to recommend animes based on a dataset
 │     └── styles.css
 └── notebooks
       └── m1.ipynb
+```
 
 - **app.py**: Main Flask application file.
 - **anime_recommender_package**: Python package containing the recommender system logic.
